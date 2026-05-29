@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.AssemblyInfo.cs
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.sourcelink.json
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\bin\Debug\net8.0\projekt-zpo.exe
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\bin\Debug\net8.0\projekt-zpo.deps.json
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\bin\Debug\net8.0\projekt-zpo.runtimeconfig.json
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\bin\Debug\net8.0\projekt-zpo.dll
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\bin\Debug\net8.0\projekt-zpo.pdb
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.dll
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\refint\projekt-zpo.dll
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.pdb
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\projekt-zpo.genruntimeconfig.cache
+C:\Users\barte\Desktop\zpo projekt\projekt-zpo\obj\Debug\net8.0\ref\projekt-zpo.dll

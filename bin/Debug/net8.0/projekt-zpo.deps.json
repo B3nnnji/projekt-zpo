@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "projekt-zpo/1.0.0": {
+        "runtime": {
+          "projekt-zpo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projekt-zpo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
